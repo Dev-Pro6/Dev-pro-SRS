@@ -1,0 +1,22 @@
+project perspective :
+
+*it is to create a website where everyone can share their works or project that everyone can see and get inspire others.
+*it helps to build a healthy environment.
+*it mostly used to store your project , retrieve any time you want and helps to enhance it with other's idea.
+
+product function:
+*bascically it work as the cloud where you can store the projects.
+*As your project is well saved without any malware attack where you can show your progress to the company how you have progressed till now.
+*As most company askes for the experience you are able to show the work you have done in your hackathon projects clearly.
+
+user characteristics:
+* those who are in college , schools or any kind of learning platform you can use it for you carrier building.
+*those who work in office and want to keep their project safe they can also able to store it here.
+*college student can easily able to have a clear track and able to showcase your skills.
+
+constraits:
+* the main limitation here is to build a ui that satisfy every user.
+* it is difficult to build a community with registration number where u can't create a fake account.
+
+
+
