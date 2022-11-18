@@ -1,0 +1,6 @@
+* Enable the users to create a login user id with email id and password.
+* Hustle free software movement.
+* A place to display all the feeds and posts posted by the users with a comment section and a hyper link to direct to their chat page.
+* A chat section for every user with an account.
+* Chat section with profile pic, send button and take screenshot option to avoid any unnecessary spams.
+* Creating a group chat with a maximum of 50 people.  To upgrade it to unlimited people it must be upgraded to premium.
