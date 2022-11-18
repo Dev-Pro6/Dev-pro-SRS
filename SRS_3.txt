@@ -1,0 +1,23 @@
+SRS 
+
+*Product perspective
+
+The product must be in a secure network for the user to share their content and files on cloud
+The interface should be easier to navigate 
+The user should be able to track their progress as well as the team's progress regarding the project
+
+*Product Functions 
+
+The product has the cloud space for storing the projects 
+The product has a multi user interface to work on the projects faster 
+
+*User characteristics 
+
+The user is typically excepted to be a student and a professtional working on thier projects 
+The team can be in either a educational institution or a multi national companies
+
+*constraints 
+
+the limitation of this website is the user's lack of knowledge in the navigation in the website
+the network configurations might be an issue since the cost of storage might increase with users
+
