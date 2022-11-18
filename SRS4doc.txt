@@ -1,0 +1,26 @@
+SRS DOCUMENT OF DEV PRO
+
+INTRODUCTION
+*The purpose of this project is to create a user friendly hub, bringing in the people from various parts of the globe, forming a community. 
+*People with unique, creative and innovative minds are brought in here. 
+*This is the place where people can find new talents, create projects, secure them, win challenges, make their achievements visible to the millions.
+
+DESCRIPTION
+*This app should be user friendly for the users, and must  be attractive. 
+*This should be thought provoking for the users and helping them to be productive. 
+*This app brings in the interest for science and technology.
+
+SYSTEM FEATURES
+*This app is inspired on GIT
+*This app has the features of instagram like search bar for finding people, getting news feeds on technology, amd contains a chat box.  
+*It helps to find people, interact with them, make projects lively based on the discusssions made. 
+
+EXTERNAL REQUIREMENTS
+*This app needs the languages such as HTML, CSS AND JAVA for its development process. 
+*The developers motive is to create a user friendly application for the users.
+*This app requires a neat developed user interface, well designed front end for to make it look attractive and free to use. 
+
+NON-FUNCTIONAL REQUIREMENTS
+*Since this app focuses on the security of projects, people are given special features to secure their projects in their pages called safe locker, creating a memory space with strong password for them.
+*This app requires high security so that there wont be any unwanted infringements and breaking in. 
+ *The project should hold a strong web page, containing spaces for many people to get in, make their live projects and launch group meetings.
